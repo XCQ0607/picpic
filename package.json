@@ -21,6 +21,7 @@
       ],
       "scripts": {
             "build": "node ./build/index.js"
+            "init": "picpic init"
       },
       "repository": {
             "type": "git",
